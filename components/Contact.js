@@ -8,7 +8,7 @@ export default function Contact(){
           <p className="text-gray-400">Riyadh, Kingdom of Saudi Arabia</p>
           <p className="text-gray-400">Hamza bin Abdul Mutalib Street 8546, Riyadh, District West Al-Oraija, Saudi Arabia</p>
           <p className="mt-2 text-gold font-semibold">Phone: <a className="text-gold" href="tel:+966538632946">+966 538 632 946</a></p>
-          <p className="text-gray-300">Email: <a className="text-gray-100 font-semibold" href="mailto:uniongatetrading007@gmail.com">uniongatetrading007@gmail.com</a></p>
+          <p className="text-gray-300">Email: <a className="text-gray-100 font-semibold" href="mailto:contact@uniongatetrading.net">uniongatetrading007@gmail.com</a></p>
           <p className="mt-2 text-gray-300">Follow us: <a className="text-gray-100 font-semibold ml-2" href="https://www.instagram.com/uniongatetrading?igsh=MWlyM2I3aTRvaGs3MA==" target="_blank" rel="noopener noreferrer">Instagram</a> <span className="mx-2">|</span> <a className="text-gray-100 font-semibold" href="https://www.facebook.com/share/1H7Rb5n32q/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer">Facebook</a></p>
         </div>
         <div className="bg-[#0b0b0b] rounded-xl p-6 border border-black/20">
