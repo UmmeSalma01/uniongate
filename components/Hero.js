@@ -28,7 +28,7 @@ export default function Hero() {
             <p className="mt-6 text-gray-200 max-w-prose">Union Gate Trading Establishment — Riyadh-based supplier of construction supplies, industrial equipment, technical solutions and manpower services across Saudi Arabia.</p>
             <div className="mt-8 flex gap-4">
               <a href="/UNITED GATE TRADING CATALOUGE.pdf" className="px-6 py-3 border border-gold text-gold rounded-md font-semibold">Download Catalog</a>
-              <a href="mailto:uniongatetrading007@gmail.com" className="px-6 py-3 bg-gold text-black rounded-md font-semibold">Contact Us</a>
+              <a href="mailto:contact@uniongatetrading.net" className="px-6 py-3 bg-gold text-black rounded-md font-semibold">Contact Us</a>
             </div>
           </motion.div>
 
